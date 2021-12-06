@@ -1,0 +1,30 @@
+Instalacja opencv + imutils
+imread / imwrite
+    typ danych w image
+    kanały i BGR
+    ROI i array slicing
+CORE operations
+    resize
+    rotate, rotate_bound
+    scale
+    write on image
+    adding / subtracting
+PROCESSING
+    GaussianBlur
+    Thresholding
+    Adaptive Threshiolding
+MORFOLOGICAL
+    Erosion
+    Dilatation
+    Opening
+    Closing
+    Topc Hat
+    Black Hat
+    Sobel
+    Laplasian
+OTHER
+    Canny edge detection
+USE CASE 1
+    https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/
+USE CASE 2
+    https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
